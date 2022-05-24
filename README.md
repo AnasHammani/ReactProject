@@ -12,3 +12,6 @@ Lancer le site
 ```bash
 npm start
 ```
+## Important
+
+Il faut node version 14.19.0 au maximum afin de pouvoir lancer le projet !
